@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">KunruiTestDemo</string>
+    <string name="DEV_OPEN_ERR">Device open failed！Software will quit！</string>
+    <string name="DIA_ALERT">Warning！</string>
+    <string name="DIA_CHECK">Confirm</string>
+
+    <string name="read_addr">地址(hex)</string>
+    <string name="read_count">块数</string>
+    <string name="write_addr">地址(hex)</string>
+    <string name="write_count">块数</string>
+    <string name="write_passwd">密码(hex)</string>
+    <string name="VALUE_ZERO">00000000</string>
+    <string name="write_content">内容(hex)</string>
+    <string name="TextView_Null"> </string>
+    <string name="Search_Btn_T">选卡</string>
+    <string name="Read_Btn_T">读</string>
+    <string name="Cancle_btn">取消</string>
+    <string name="Write_Btn_T">写</string>
+    <string name="Item_Tag_EPC">EPC标签</string>
+</resources>
